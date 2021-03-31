@@ -1,6 +1,7 @@
 # epam-devops-azure
 
 AZ-104-Lab03a
+
 https://github.com/ArtakG/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/LAB_03a-Manage_Azure_Resources_by_Using_the_Azure_Portal.md
 
 1) create resource
@@ -11,6 +12,7 @@ https://github.com/ArtakG/AZ-104-MicrosoftAzureAdministrator/blob/master/Instruc
 6) add resource lock
 
 AZ-104-Lab03c
+
 https://github.com/ArtakG/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/LAB_03c-Manage_Azure_Resources_by_Using_Azure_PowerShell.md
 
 1) create resource
